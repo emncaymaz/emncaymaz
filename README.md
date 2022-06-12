@@ -2,6 +2,8 @@
 - 👀 I’m interested in WEB
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate
+- Java Spring Framework
+- Python Django Framework
 
 <!---
 emncaymaz/emncaymaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

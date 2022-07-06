@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emncaymaz
 - 👀 I’m interested in WEB
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate.
 - Java Spring Framework
 - Python Django Framework

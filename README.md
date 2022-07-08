@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emncaymaz
-- 👀 I’m interested in WEB
+- 👀 I’m interested in WEB-Applikation 
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate.
 - Java Spring Framework

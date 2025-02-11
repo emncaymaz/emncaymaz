@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB-Applikation 
 - 🌱 I’m currently learning Java and Java Spring Framework, Hibernate
 - 💞️ I’m looking to collaborate.
-- Java Spring Framework, Hibernate
+- Java Spring Framework, Hibernate, Swing, CI/CD with Azure Devops 
 - Python Django Framework
 
 <!---
